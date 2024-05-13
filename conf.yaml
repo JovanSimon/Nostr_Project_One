@@ -1,0 +1,7 @@
+authentication:
+  relay_urls:
+    - wss://relay.primal.net
+  enabled: true
+  actions:
+    save: a
+    query: a
